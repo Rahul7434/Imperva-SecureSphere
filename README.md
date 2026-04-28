@@ -16,7 +16,8 @@ window of exposure
 Imperva Agent Installation on windows os for mssql:
 ``
 1.Connectivity check on Gateway server & DB server for port 5555 and 443
-2.Check the DB version and os version then check the compatible agent and download the file from the imperva portal. (https://www.imperva.com/data-security-coverage-tool/)
+2.Check the DB version and os version then check the compatible agent and download the file from the imperva portal. (https://www.imperva.com/data-security-coverage-tool/) and
+download the agent zip file on db server.
 3.
 
 ```
