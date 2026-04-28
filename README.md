@@ -11,10 +11,12 @@ improve data security and meet compliance mandates.
 window of exposure 
 ▪ Identify excessive and dormant user rights to sensitive data 
 ▪ Accelerate incident response and forensic investigation with advanced analytics 
-
+```
 ```
 Imperva Agent Installation on windows os for mssql:
-
+``
 1.Connectivity check on Gateway server & DB server for port 5555 and 443
 2.Check the DB version and os version then check the compatible agent and download the file from the imperva portal. 
 3.
+
+```
