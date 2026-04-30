@@ -1,4 +1,14 @@
+Architecture:
 
+```
+Database Server
+|
+[Imperva Agent] <--(Installed on DB server - windows/linux) 
+|
+[Imperva Gateway]
+|
+[Management server (MX)]
+```
 
 Imperva Agent Installation on windows os for mssql:
 ```
@@ -11,9 +21,7 @@ Imperva Agent Installation on windows os for mssql:
 3.Open CMD as administrator and go to the path where inperva package uploaded.
     - Then go to the package 
 
- 
-
-
+4.
 ```
 
 
