@@ -8,8 +8,20 @@ Database Server
 [Imperva Gateway]
 |
 [Management server (MX)]
+
+-Agent lives on DB server
+-Agent send traffic to gateway
+-MX controls policies, update, monitoring
+
 ```
 
+Pre-requisites:
+```
+-Root/admin access
+-Outbound connectivity to gateway (port usually 443)
+-Time sync (NTP
+-Enough Disk Space
+```
 Imperva Agent Installation on windows os for mssql:
 ```
 1. Connectivity check on Gateway server & DB server for port 5555 and 443
@@ -23,5 +35,7 @@ Imperva Agent Installation on windows os for mssql:
 
 4.
 ```
+
+
 
 
