@@ -2,11 +2,11 @@ Architecture:
 
 ```
 Database Server
-|
+    |
 [Imperva Agent] <--(Installed on DB server - windows/linux) 
-|
+    |
 [Imperva Gateway]
-|
+    |
 [Management server (MX)]
 
 -Agent lives on DB server
