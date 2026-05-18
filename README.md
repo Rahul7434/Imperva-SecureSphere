@@ -49,7 +49,15 @@ Imperva Agent Installation on windows os for mssql:
 #### The now go to the reagentinstaller package file path
 - 1) Quick Configuration 2) Custome Advanced configuration
     - Enter 1 for quicj configuration
+-Do you wish to use installed imperva agent registration information for the  agent installation manager registration
+    - Enter y
 
+"The agent installation manager was successfully registered to to the gateway"
+
+-The press any  kay then enter "yes for start the agent installation manager"
+
+
+The go to the services and check the agent status.
 
 
 
