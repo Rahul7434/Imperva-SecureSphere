@@ -30,10 +30,10 @@ Imperva Agent Installation on windows os for mssql:
 
 2. Check the DB version and os version then check the compatible agent on from imperva release note portal (https://www.imperva.com/data-security-coverage-tool/) and download the agent zip file from ftp and upload it on db server.
 
-3.Open CMD as administrator and go to the path where inperva package uploaded.
-    - Then go to the package 
+3.Open CMD as administrator and go to the path where imperva package uploaded.
 
-4.
+4.First install the R-agent then go for the installer installation.
+
 ```
 
 
